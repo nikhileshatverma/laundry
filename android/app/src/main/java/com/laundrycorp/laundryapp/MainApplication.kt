@@ -1,4 +1,4 @@
-package com.laundryapp
+package com.laundrycorp.laundryapp
 
 import android.app.Application
 import com.facebook.react.PackageList

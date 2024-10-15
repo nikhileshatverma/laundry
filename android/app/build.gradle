@@ -8,7 +8,7 @@ android {
     defaultConfig {
         applicationId "com.laundrycorp.laundryapp"
         minSdkVersion 21
-        targetSdkVersion 33
+        targetSdkVersion 33  // Ensure it aligns with compile SDK version
         versionCode 1
         versionName "1.0"
     }
